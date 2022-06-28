@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin-Caldwell
-- 👀 I’m interested in Godot, Java, C#, C++, Python and R
-- 🌱 I’m currently learning Blender, Godot and C#
+- 👀 I’m interested in Unreal Engine, Godot, Java, C#, C++, Python and R
+- 🌱 I’m currently learning Unreal Engine, Blender, Godot and C#
 - 📫 You can reach me through my email: kevinc2004@gmail.com
 
 <!---
