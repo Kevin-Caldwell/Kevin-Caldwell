@@ -1,5 +1,5 @@
-### Hi 👋, I'm Kevin Caldwell
-### I'm an undergraduate student at the University of Toronto majoring in Electrical and Computer Engineering with a strong interest in embedded systems, high-performance computing, and aerospace technology.
+## Hi 👋, I'm Kevin Caldwell
+#### I'm an undergraduate student at the University of Toronto majoring in Electrical and Computer Engineering with a strong interest in embedded systems, high-performance computing, and aerospace technology.
 
 - 🔭 I’m currently working on [HyperCube Compression](https://github.com/Kevin-Caldwell/hyperC)
 
